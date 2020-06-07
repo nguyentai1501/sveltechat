@@ -1,0 +1,15 @@
+  .group:hover .group-hover\:block {
+    display: block;
+  }
+  .hover\:w-64:hover {
+    width: 45%;
+	}
+	
+/* .recent-active{
+	background: blue;
+} */
+
+.modal {
+	transition: opacity 0.25s ease;
+	z-index: 999;
+  }
